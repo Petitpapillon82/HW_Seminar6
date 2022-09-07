@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\bin\Debug\net6.0\TPlus.exe
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\bin\Debug\net6.0\TPlus.deps.json
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\bin\Debug\net6.0\TPlus.runtimeconfig.json
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\bin\Debug\net6.0\TPlus.dll
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\bin\Debug\net6.0\TPlus.pdb
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.dll
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\refint\TPlus.dll
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.pdb
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\TPlus.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\ДЗ семинар 6\TPlus\obj\Debug\net6.0\ref\TPlus.dll
